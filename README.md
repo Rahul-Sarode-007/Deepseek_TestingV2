@@ -6,7 +6,7 @@ A visually stunning, AI-generated portfolio website for **Sarah**, a freelance w
 
 ## 🔗 Live Preview
 
-👉 [View Live Site](https://your-deployed-link.com) *(Replace with your actual URL)*
+👉 [View Live Site] - (https://rahul-sarode-007.github.io/Deepseek_TestingV2/)
 
 ---
 
